@@ -6,7 +6,7 @@
  
 ## Requirements
 
-1. Requires a bot token which to be made in dischord developer console. More here https://discord.com/developers/docs/intro
-2. The bots needed to be added in the server first for running.
+1. Requires a bot token which has to be made in discord developer console. More here https://discord.com/developers/docs/intro
+2. The bot has to added in the server first for running.
 3. For Requirements run it on cmd: py -m pip install discord.py
  
